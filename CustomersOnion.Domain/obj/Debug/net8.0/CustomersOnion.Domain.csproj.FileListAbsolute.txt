@@ -1,0 +1,14 @@
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Domain\bin\Debug\net8.0\CustomersOnion.Domain.deps.json
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Domain\bin\Debug\net8.0\CustomersOnion.Domain.runtimeconfig.json
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Domain\bin\Debug\net8.0\CustomersOnion.Domain.dll
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Domain\bin\Debug\net8.0\CustomersOnion.Domain.pdb
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Domain\obj\Debug\net8.0\CustomersOnion.Domain.csproj.AssemblyReference.cache
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Domain\obj\Debug\net8.0\CustomersOnion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Domain\obj\Debug\net8.0\CustomersOnion.Domain.AssemblyInfoInputs.cache
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Domain\obj\Debug\net8.0\CustomersOnion.Domain.AssemblyInfo.cs
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Domain\obj\Debug\net8.0\CustomersOnion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Domain\obj\Debug\net8.0\CustomersOnion.Domain.dll
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Domain\obj\Debug\net8.0\refint\CustomersOnion.Domain.dll
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Domain\obj\Debug\net8.0\CustomersOnion.Domain.pdb
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Domain\obj\Debug\net8.0\CustomersOnion.Domain.genruntimeconfig.cache
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Domain\obj\Debug\net8.0\ref\CustomersOnion.Domain.dll

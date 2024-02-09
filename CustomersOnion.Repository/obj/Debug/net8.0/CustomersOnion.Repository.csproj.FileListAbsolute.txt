@@ -1,0 +1,15 @@
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\bin\Debug\net8.0\CustomersOnion.Repository.deps.json
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\bin\Debug\net8.0\CustomersOnion.Repository.dll
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\bin\Debug\net8.0\CustomersOnion.Repository.pdb
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\bin\Debug\net8.0\CustomersOnion.Domain.dll
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\bin\Debug\net8.0\CustomersOnion.Domain.pdb
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\obj\Debug\net8.0\CustomersOnion.Repository.csproj.AssemblyReference.cache
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\obj\Debug\net8.0\CustomersOnion.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\obj\Debug\net8.0\CustomersOnion.Repository.AssemblyInfoInputs.cache
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\obj\Debug\net8.0\CustomersOnion.Repository.AssemblyInfo.cs
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\obj\Debug\net8.0\CustomersOnion.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\obj\Debug\net8.0\CustomersOnion.Repository.csproj.CopyComplete
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\obj\Debug\net8.0\CustomersOnion.Repository.dll
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\obj\Debug\net8.0\refint\CustomersOnion.Repository.dll
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\obj\Debug\net8.0\CustomersOnion.Repository.pdb
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Repository\obj\Debug\net8.0\ref\CustomersOnion.Repository.dll

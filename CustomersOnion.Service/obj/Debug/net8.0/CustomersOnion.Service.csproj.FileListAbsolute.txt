@@ -1,0 +1,17 @@
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\bin\Debug\net8.0\CustomersOnion.Service.deps.json
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\bin\Debug\net8.0\CustomersOnion.Service.dll
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\bin\Debug\net8.0\CustomersOnion.Service.pdb
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\bin\Debug\net8.0\CustomersOnion.Domain.dll
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\bin\Debug\net8.0\CustomersOnion.Repository.dll
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\bin\Debug\net8.0\CustomersOnion.Domain.pdb
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\bin\Debug\net8.0\CustomersOnion.Repository.pdb
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\obj\Debug\net8.0\CustomersOnion.Service.csproj.AssemblyReference.cache
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\obj\Debug\net8.0\CustomersOnion.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\obj\Debug\net8.0\CustomersOnion.Service.AssemblyInfoInputs.cache
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\obj\Debug\net8.0\CustomersOnion.Service.AssemblyInfo.cs
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\obj\Debug\net8.0\CustomersOnion.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\obj\Debug\net8.0\CustomersOnion.Service.csproj.CopyComplete
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\obj\Debug\net8.0\CustomersOnion.Service.dll
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\obj\Debug\net8.0\refint\CustomersOnion.Service.dll
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\obj\Debug\net8.0\CustomersOnion.Service.pdb
+C:\Users\Lyncas\Documents\Programação\EstudosBackEnd\ProjetosC#\CustomersOnion\CustomersOnion.Service\obj\Debug\net8.0\ref\CustomersOnion.Service.dll

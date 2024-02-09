@@ -1,0 +1,6 @@
+@CustomersOnion_HostAddress = http://localhost:5191
+
+GET {{CustomersOnion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
